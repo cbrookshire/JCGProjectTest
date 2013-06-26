@@ -9,7 +9,7 @@ import java.sql.Statement;
 
 public class Login {
     
-    static final String DATABASE_URL = "jdbc:mysql://localhost/JGCroup";
+    static final String DATABASE_URL = "jdbc:mysql://localhost/JCGroup";
     Connection connection = null;
     Statement statement = null;
     ResultSet resultSet = null;
